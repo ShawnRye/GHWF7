@@ -1,4 +1,4 @@
-
+# This is a comment about test grades
 from grades import compute_hw_average
 
 

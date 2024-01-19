@@ -1,4 +1,4 @@
-
+#This is a comment about grades
 def compute_hw_average(grades):
     if len(grades) == 0:
         return 0
